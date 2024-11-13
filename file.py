@@ -1,1 +1,1 @@
-print('Hello world - from version 1')
+print("Hello world from both version 1 and version 2!")
